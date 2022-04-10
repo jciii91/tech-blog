@@ -10,7 +10,8 @@
     "sequelize": "^6.18.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "seeds" : "node seeds/index.js"
   },
   "name": "tech-blog",
   "description": "This is a full-stack application which was constructed to mimic the functionality of websites such as Wordpress.",
